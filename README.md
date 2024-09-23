@@ -19,21 +19,35 @@ I'm a **web developer** with over a decade of experience in crafting responsive,
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsbron&layout=compact&theme=gotham)
 
-
-
 ## Projects 
 
 ### VSplanet [2024]
 ![Project Image](https://i.ibb.co/R3Ct5JP/vsplanet-preview.png)
-### Description
+#### Description
 Remastering my first major project with modern technology, now powered by React and connected to a remote database.
 
-### Tech Stack
+#### Tech Stack
 - Frontend: React, React Router, React Query, React Hook Form, Styled Components
 - Backend: Supabase
 
-### Links
-- [Live Demo](https://vsplanet.netlify.app)
+#### Links: [Live Demo](https://vsplanet.netlify.app)
+---------------------------------------
+### The Wild Oasis [2024]
+![Project Image](https://i.ibb.co/ssNB3nB/the-wild-oasis-preview.png)
+
+#### Description
+Project that consists of two apps. Server side dashboard for managing bookings, cabons and guests. Client side web site for creating new bookings. Both work on the same Database.
+
+#### Tech Stack (Client)
+- Frontend: NextJS, Tailwind CSS, Auth JS
+- Backend: Supabase
+
+#### Tech Stack (Server)
+- Frontend: React, React Router, React Query, React Hook Form, Styled Components
+- Backend: Supabase
+
+#### Links (Server): [Live Demo](https://vsbron-course-react2024-wild-oasis.vercel.app/) | [Repo](https://github.com/vsbron/course-react2024-the-wild-oasis)
+#### Links (Client): [Live Demo](https://vsbron-course-nextjs2024-wild-oasis.vercel.app/) | [Repo](https://github.com/vsbron/course-nextJs2024-the-wild-oasis)
 
 ## Connect with Me
 <p align="left">
