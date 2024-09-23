@@ -19,7 +19,23 @@ I'm a **web developer** with over a decade of experience in crafting responsive,
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsbron&layout=compact&theme=gotham)
 
-### Connect with Me
+
+
+## Projects 
+
+### VSplanet [2024]
+![Project Image](https://i.ibb.co/R3Ct5JP/vsplanet-preview.png)
+### Description
+Remastering my first major project with modern technology, now powered by React and connected to a remote database.
+
+### Tech Stack
+- Frontend: React, React Router, React Query, React Hook Form, Styled Components
+- Backend: Supabase
+
+### Links
+- [Live Demo](https://vsplanet.netlify.app)
+
+## Connect with Me
 <p align="left">
   <a href="https://instagram.com/vsbron" target="blank"><img src="https://i.ibb.co/BzLPXmL/instagram.png" alt="" height="30" width="30" /></a>
   <a href="https://www.linkedin.com/in/vsbron/" target="blank"><img src="https://i.ibb.co/94wr4Lc/linkedin.png" alt="" height="30" width="30" /></a>
