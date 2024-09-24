@@ -48,6 +48,22 @@ Project that consists of two apps. Server side dashboard for managing bookings, 
 
 #### Links (Server): [Live Demo](https://vsbron-course-react2024-wild-oasis.vercel.app/) | [Repo](https://github.com/vsbron/course-react2024-the-wild-oasis)
 #### Links (Client): [Live Demo](https://vsbron-course-nextjs2024-wild-oasis.vercel.app/) | [Repo](https://github.com/vsbron/course-nextJs2024-the-wild-oasis)
+---------------------------------------
+### Modern Chat App [2024]
+![Project Image](https://i.ibb.co/GJ04pyx/modern-chat-app-preview.png)
+
+#### Description
+A modern browser-based chat client that enables private messaging and file exchanges between users.
+
+#### Tech Stack (Client)
+- Frontend: NextJS, Tailwind CSS, Auth JS
+- Backend: Supabase
+
+#### Tech Stack (Server)
+- Frontend: React, Zustand
+- Backend: Firebase, Firestore
+
+#### Links: [Live Demo](https://vsbron-react2024-modern-chat-app.netlify.app/) | [Repo](https://github.com/vsbron/react2024-modern-chat-app)
 
 ## Connect with Me
 <p align="left">
