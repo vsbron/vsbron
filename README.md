@@ -51,10 +51,11 @@ Project that consists of two apps. Server side dashboard for managing bookings, 
 
 ## Connect with Me
 <p align="left">
-  <a href="https://instagram.com/vsbron" target="blank"><img src="https://i.ibb.co/BzLPXmL/instagram.png" alt="" height="30" width="30" /></a>
-  <a href="https://www.linkedin.com/in/vsbron/" target="blank"><img src="https://i.ibb.co/94wr4Lc/linkedin.png" alt="" height="30" width="30" /></a>
-  <a href="https://www.reddit.com/user/VSBroN/" target="blank"><img src="https://i.ibb.co/wS5xmPv/reddit.png" alt="" height="30" width="30" /></a>
-  <a href="https://t.me/vsbron" target="blank"><img src="https://i.ibb.co/4S4g8D5/telegram.png" alt="" height="30" width="30" /></a>
+  <a href="https://discord.com/users/vsbron"><img src="https://i.ibb.co/880xJx1/discord.png" height="30" width="30" /></a>
+  <a href="https://instagram.com/vsbron"><img src="https://i.ibb.co/BzLPXmL/instagram.png" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/vsbron/"><img src="https://i.ibb.co/94wr4Lc/linkedin.png" height="30" width="30" /></a>
+  <a href="https://www.reddit.com/user/VSBroN/"><img src="https://i.ibb.co/wS5xmPv/reddit.png" height="30" width="30" /></a>
+  <a href="https://t.me/vsbron"><img src="https://i.ibb.co/4S4g8D5/telegram.png" height="30" width="30" /></a>
 </p>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=vsbron&color=blue)
