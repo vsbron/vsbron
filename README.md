@@ -55,11 +55,7 @@ Project that consists of two apps. Server side dashboard for managing bookings, 
 #### Description
 A modern browser-based chat client that enables private messaging and file exchanges between users.
 
-#### Tech Stack (Client)
-- Frontend: NextJS, Tailwind CSS, Auth JS
-- Backend: Supabase
-
-#### Tech Stack (Server)
+#### Tech Stack 
 - Frontend: React, Zustand
 - Backend: Firebase, Firestore
 
