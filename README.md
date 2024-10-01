@@ -61,6 +61,18 @@ A modern browser-based chat client that enables private messaging and file excha
 
 #### Links: [Live Demo](https://vsbron-react2024-modern-chat-app.netlify.app/) | [Repo](https://github.com/vsbron/react2024-modern-chat-app)
 
+---------------------------------------
+### School Management [2024]
+
+#### Description
+A comprehensive School Management App designed to create and manage schedules, activities, and resources for teachers, students, and parents.
+
+#### Tech Stack 
+- Frontend: NextJs, TypeScript, React Hook Form, Zod, Tailwind CSS, Clerk
+- Backend: Prisma, Docker
+
+#### Links: [Repo](https://github.com/vsbron/nextJs2024-school-management)
+
 ## Connect with Me
 <p align="left">
   <a href="https://discord.com/users/vsbron"><img src="https://i.ibb.co/880xJx1/discord.png" height="30" width="30" /></a>
