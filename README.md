@@ -63,6 +63,8 @@ A modern browser-based chat client that enables private messaging and file excha
 
 ---------------------------------------
 ### School Management [2024]
+![Project Image](https://i.ibb.co/12DydMN/school-management.png)
+
 
 #### Description
 A comprehensive School Management App designed to create and manage schedules, activities, and resources for teachers, students, and parents.
