@@ -75,6 +75,17 @@ A comprehensive School Management App designed to create and manage schedules, a
 
 #### Links: [Repo](https://github.com/vsbron/nextJs2024-school-management)
 
+---------------------------------------
+### Apple Website [2024]
+
+#### Description
+ Clone of the modern Apple website with iPhone 15 presentation 
+ 
+#### Tech Stack 
+- Frontend: TypeScript, Tailwind CSS, GSAP, Three.js
+
+#### Links: [Live Demo](https://vsbron-react2024-apple-website.netlify.app/) | [Repo](https://github.com/vsbron/react2024-apple-website)
+
 ## Connect with Me
 <p align="left">
   <a href="https://discord.com/users/vsbron"><img src="https://i.ibb.co/880xJx1/discord.png" height="30" width="30" /></a>
