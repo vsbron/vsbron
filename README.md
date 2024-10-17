@@ -56,7 +56,7 @@ Project that consists of two apps. Server side dashboard for managing bookings, 
 A modern browser-based chat client that enables private messaging and file exchanges between users.
 
 #### Tech Stack 
-- Frontend: React, Zustand
+- Frontend: React, TypeScript, Zustand
 - Backend: Firebase, Firestore
 
 #### Links: [Live Demo](https://vsbron-react2024-modern-chat-app.netlify.app/) | [Repo](https://github.com/vsbron/react2024-modern-chat-app)
