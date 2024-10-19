@@ -22,7 +22,7 @@ I'm a **web developer** with over a decade of experience in crafting responsive,
 ## Projects 
 
 ### VSplanet [2024]
-![Project Image](https://i.ibb.co/R3Ct5JP/vsplanet-preview.png)
+![Project Image](https://i.ibb.co/rbGX49g/vsplanet-preview.png)
 #### Description
 Remastering my first major project with modern technology, now powered by React and connected to a remote database.
 
@@ -33,7 +33,7 @@ Remastering my first major project with modern technology, now powered by React 
 #### Links: [Live Demo](https://vsplanet.netlify.app)
 ---------------------------------------
 ### The Wild Oasis [2024]
-![Project Image](https://i.ibb.co/rbGX49g/vsplanet-preview.png)
+![Project Image](https://i.ibb.co/KDPtnq0/the-wild-oasis-preview.png)
 
 #### Description
 Project that consists of two apps. Server side dashboard for managing bookings, cabons and guests. Client side web site for creating new bookings. Both work on the same Database.
