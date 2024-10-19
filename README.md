@@ -33,7 +33,7 @@ Remastering my first major project with modern technology, now powered by React 
 #### Links: [Live Demo](https://vsplanet.netlify.app)
 ---------------------------------------
 ### The Wild Oasis [2024]
-![Project Image](https://i.ibb.co/ssNB3nB/the-wild-oasis-preview.png)
+![Project Image](https://i.ibb.co/rbGX49g/vsplanet-preview.png)
 
 #### Description
 Project that consists of two apps. Server side dashboard for managing bookings, cabons and guests. Client side web site for creating new bookings. Both work on the same Database.
