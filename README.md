@@ -63,7 +63,7 @@ A modern browser-based chat client that enables private messaging and file excha
 
 ---------------------------------------
 ### School Management [2024]
-![Project Image](https://i.ibb.co/12DydMN/school-management.png)
+![Project Image](https://i.ibb.co/nQZv93h/school-management-preview.png)
 
 
 #### Description
