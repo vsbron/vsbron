@@ -77,6 +77,7 @@ A comprehensive School Management App designed to create and manage schedules, a
 
 ---------------------------------------
 ### Apple Website [2024]
+![Project Image](https://i.ibb.co/1R0V2pF/apple-website-preview.png)
 
 #### Description
  Clone of the modern Apple website with iPhone 15 presentation 
