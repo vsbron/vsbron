@@ -50,7 +50,7 @@ Project that consists of two apps. Server side dashboard for managing bookings, 
 #### Links (Client): [Live Demo](https://vsbron-course-nextjs2024-wild-oasis.vercel.app/) | [Repo](https://github.com/vsbron/course-nextJs2024-the-wild-oasis)
 ---------------------------------------
 ### Modern Chat App [2024]
-![Project Image](https://i.ibb.co/GJ04pyx/modern-chat-app-preview.png)
+![Project Image](https://i.ibb.co/25pFG6j/modern-chat-app-preview.png)
 
 #### Description
 A modern browser-based chat client that enables private messaging and file exchanges between users.
