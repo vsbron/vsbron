@@ -39,7 +39,7 @@ Remastering my first major project with modern technology, now powered by React 
 Project that consists of two apps. Server side dashboard for managing bookings, cabons and guests. Client side web site for creating new bookings. Both work on the same Database.
 
 #### Tech Stack (Client)
-- Frontend: NextJS, Tailwind CSS, Auth JS
+- Frontend: NextJS, TypeScript, Tailwind CSS, Auth JS
 - Backend: Supabase
 
 #### Tech Stack (Server)
