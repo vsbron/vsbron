@@ -43,7 +43,7 @@ Project that consists of two apps. Server side dashboard for managing bookings, 
 - Backend: Supabase
 
 #### Tech Stack (Server)
-- Frontend: React, React Router, React Query, React Hook Form, Styled Components
+- Frontend: React, TypeScript, React Router, React Query, React Hook Form, Styled Components
 - Backend: Supabase
 
 #### Links (Server): [Live Demo](https://vsbron-course-react2024-wild-oasis.vercel.app/) | [Repo](https://github.com/vsbron/course-react2024-the-wild-oasis)
