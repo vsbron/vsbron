@@ -15,7 +15,7 @@ I'm a **web developer** with over a decade of experience in crafting responsive,
 - **Forms & Validation**: React Hook Form, Zod
 - **Styling**: Styled Components, Tailwind CSS, CSS Modules, SASS, GSAP
 - **Version Control**: Git
-- **Worked with**: Supabase, Firebase, Netlify, Vercel
+- **Worked with**: Supabase, Firebase, Netlify, Vercel, Prisma, Docker
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsbron&layout=compact&theme=gotham)
 
