@@ -26,7 +26,7 @@ I'm a **web developer** with over a decade of experience in crafting responsive,
 Remastering my first major project with modern technology, now powered by React and connected to a remote database.
 
 #### Tech Stack
-- Frontend: React, React Router, React Query, React Hook Form, Styled Components
+- Frontend: React, TypeScript, React Router, React Query, React Hook Form, Styled Components
 - Backend: Supabase
 
 #### Links: [Live Demo](https://vsplanet.netlify.app) | [Repo (On demand)](https://github.com/vsbron/vsplanet)
