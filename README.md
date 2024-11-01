@@ -29,7 +29,7 @@ Remastering my first major project with modern technology, now powered by React 
 - Frontend: React, React Router, React Query, React Hook Form, Styled Components
 - Backend: Supabase
 
-#### Links: [Live Demo](https://vsplanet.netlify.app)
+#### Links: [Live Demo](https://vsplanet.netlify.app) | [Repo (On demand)](https://github.com/vsbron/vsplanet)
 ---------------------------------------
 ### The Wild Oasis [2024]
 ![Project Image](https://i.ibb.co/KDPtnq0/the-wild-oasis-preview.png)
