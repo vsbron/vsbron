@@ -16,8 +16,6 @@ I'm a **web developer** with over a decade of experience in crafting responsive,
 - **Version Control**: Git
 - **Worked with**: Supabase, Firebase, Netlify, Vercel, Prisma, Docker
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsbron&layout=compact&theme=gotham)
-
 ## Projects 
 
 ### VSplanet [2024]
