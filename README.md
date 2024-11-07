@@ -5,7 +5,7 @@ I'm a **web developer** with over a decade of experience in crafting responsive,
 ![Commits](https://github-profile-trophy.vercel.app/?username=vsbron&title=Commit&theme=tokyonight)
 
 ### Current Focus
-- 🌱 I’m currently mastering advanced React patterns and performance optimization.
+- 🌱 I’m currently mastering advanced React patterns and performance optimization
 
 ### My Tech Stack
 - **Languages**: HTML, CSS, JavaScript, TypeScript
