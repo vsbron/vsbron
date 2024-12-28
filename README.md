@@ -6,6 +6,7 @@ I'm a **web developer** with over a decade of experience in crafting responsive,
 
 ### Current Focus
 - 🌱 I’m currently mastering advanced React patterns and performance optimization
+- 🔭 I’m working on a **React Netlix-inspired project**.
 
 ### My Tech Stack
 - **Languages**: HTML, CSS, JavaScript, TypeScript
