@@ -32,6 +32,16 @@ Remastering my first major project with modern technology, now powered by React 
 
 #### Links: [Live Demo](https://vsplanet.netlify.app) | [Repo (On demand)](https://github.com/vsbron/vsplanet)
 ---------------------------------------
+### BroNflix [2025]
+![Project Image](https://i.ibb.co/XxHSYvBr/bronflix-preview.png)
+#### Description
+A Netflix-inspired movie browsing React app powered by TMDB API.
+
+#### Tech Stack
+- Frontend: React, TypeScript, React Router, React Query, React Hook Form, Zod, Tailwind
+
+#### Links: [Live Demo (VPN may needed)](https://vsbronflix.netlify.app) | [Repo](https://github.com/vsbron/bronflix-2024-react)
+---------------------------------------
 ### The Wild Oasis [2024]
 ![Project Image](https://i.ibb.co/KDPtnq0/the-wild-oasis-preview.png)
 
