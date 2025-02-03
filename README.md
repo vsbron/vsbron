@@ -39,6 +39,7 @@ A Netflix-inspired movie browsing React app powered by TMDB API.
 
 #### Tech Stack
 - Frontend: React, TypeScript, React Router, React Query, React Hook Form, Zod, Tailwind
+- Backend: Firebase, Firestore
 
 #### Links: [Live Demo (VPN may needed)](https://vsbronflix.netlify.app) | [Repo](https://github.com/vsbron/bronflix-2024-react)
 ---------------------------------------
