@@ -10,11 +10,12 @@ I'm a **web developer** with over a decade of experience in crafting responsive,
 ### My Tech Stack
 - **Languages**: HTML, CSS, JavaScript, TypeScript
 - **Frontend**: React, Next.js
-- **State Management**: Redux, React Query, Zustand
+- **State Management**: Redux (RTK), React Query, Zustand
 - **Forms & Validation**: React Hook Form, Zod
-- **Styling**: Styled Components, Tailwind CSS, CSS Modules, SASS, GSAP
+- **Styling**: Styled Components, Tailwind CSS, CSS Modules, SASS, GSAP, BEM, Bootstrap, ShadCN UI
+- **Database / Backend**: Prisma, Firebase, Supabase
 - **Version Control**: Git
-- **Worked with**: Supabase, Firebase, Netlify, Vercel, Prisma, Docker
+- **Tools & Workflow**: ESLint, Prettier, Vite, Webpack, Docker, Vercel, Netlify
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsbron&layout=compact&theme=gotham)
 
