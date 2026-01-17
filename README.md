@@ -6,6 +6,7 @@ I'm a **web developer** with over a decade of experience in crafting responsive,
 
 ### Current Focus
 - 🌱 I’m currently mastering advanced React & NEXT.js patterns and performance optimization
+- 🧑‍💻 I’m currently developing Portfolio website
 
 ### My Tech Stack
 - **Languages**: HTML, CSS, JavaScript, TypeScript
@@ -21,16 +22,16 @@ I'm a **web developer** with over a decade of experience in crafting responsive,
 
 ## Projects 
 
-### VSplanet [2024]
-![Project Image](https://i.ibb.co/rbGX49g/vsplanet-preview.png)
+### NextBlogs [2025]
+![Project Image](https://i.ibb.co/FLvTwVBy/next-blogs-preview.png)
 #### Description
-Remastering my first major project with modern technology, now powered by React and connected to a remote database.
+Multi-user blogging platform
 
 #### Tech Stack
-- Frontend: React, TypeScript, React Router, React Query, React Hook Form, Styled Components
-- Backend: Supabase
+- Frontend: Next.js, TypeScript, App Router, React Query, React Hook Form, Zod, Tailwind
+- Backend: Clerk, Supabase, Prisma
 
-#### Links: [Live Demo](https://vsplanet.netlify.app) | [Repo (On demand)](https://github.com/vsbron/vsplanet)
+#### Links: [Live Demo (VPN may needed)](https://next-blogs-2025.vercel.app) | [Repo](https://github.com/vsbron/next-blogs-2025-nextjs)
 ---------------------------------------
 ### BroNflix [2025]
 ![Project Image](https://i.ibb.co/XxHSYvBr/bronflix-preview.png)
@@ -42,6 +43,17 @@ A Netflix-inspired movie browsing React app powered by TMDB API.
 - Backend: Firebase, Firestore
 
 #### Links: [Live Demo (VPN may needed)](https://vsbronflix.netlify.app) | [Repo](https://github.com/vsbron/bronflix-2024-react)
+---------------------------------------
+### VSplanet [2024]
+![Project Image](https://i.ibb.co/rbGX49g/vsplanet-preview.png)
+#### Description
+Remastering my first major project with modern technology, now powered by React and connected to a remote database.
+
+#### Tech Stack
+- Frontend: React, TypeScript, React Router, React Query, React Hook Form, Styled Components
+- Backend: Supabase
+
+#### Links: [Live Demo](https://vsplanet.netlify.app) | [Repo (On demand)](https://github.com/vsbron/vsplanet)
 ---------------------------------------
 ### The Wild Oasis [2024]
 ![Project Image](https://i.ibb.co/KDPtnq0/the-wild-oasis-preview.png)
