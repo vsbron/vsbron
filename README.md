@@ -6,7 +6,7 @@ I'm a **web developer** with over a decade of experience in crafting responsive,
 
 ### Current Focus
 - 🌱 I’m currently mastering advanced React & NEXT.js patterns and performance optimization
-- 🧑‍💻 I’m currently developing Portfolio website
+- 🧑‍💻 I’m currently developing small Quiz project
 
 ### My Tech Stack
 - **Languages**: HTML, CSS, JavaScript, TypeScript
@@ -55,23 +55,6 @@ Remastering my first major project with modern technology, now powered by React 
 
 #### Links: [Live Demo](https://vsplanet.netlify.app) | [Repo (On demand)](https://github.com/vsbron/vsplanet)
 ---------------------------------------
-### The Wild Oasis [2024]
-![Project Image](https://i.ibb.co/KDPtnq0/the-wild-oasis-preview.png)
-
-#### Description
-Project that consists of two apps. Server side dashboard for managing bookings, cabons and guests. Client side web site for creating new bookings. Both work on the same Database.
-
-#### Tech Stack (Client)
-- Frontend: NextJS, TypeScript, Tailwind CSS, Auth JS
-- Backend: Supabase
-
-#### Tech Stack (Server)
-- Frontend: React, TypeScript, React Router, React Query, React Hook Form, Styled Components
-- Backend: Supabase
-
-#### Links (Server): [Live Demo](https://vsbron-course-react2024-wild-oasis.vercel.app/) | [Repo](https://github.com/vsbron/course-react2024-the-wild-oasis)
-#### Links (Client): [Live Demo](https://vsbron-course-nextjs2024-wild-oasis.vercel.app/) | [Repo](https://github.com/vsbron/course-nextJs2024-the-wild-oasis)
----------------------------------------
 ### Modern Chat App [2024]
 ![Project Image](https://i.ibb.co/25pFG6j/modern-chat-app-preview.png)
 
@@ -84,35 +67,9 @@ A modern browser-based chat client that enables private messaging and file excha
 
 #### Links: [Live Demo](https://vsbron-react2024-modern-chat-app.netlify.app/) | [Repo](https://github.com/vsbron/react2024-modern-chat-app)
 
----------------------------------------
-### School Management [2024]
-![Project Image](https://i.ibb.co/nQZv93h/school-management-preview.png)
-
-
-#### Description
-A comprehensive School Management App designed to create and manage schedules, activities, and resources for teachers, students, and parents.
-
-#### Tech Stack 
-- Frontend: NextJs, TypeScript, React Hook Form, Zod, Tailwind CSS, Clerk
-- Backend: Prisma, Docker
-
-#### Links: [Repo](https://github.com/vsbron/nextJs2024-school-management)
-
----------------------------------------
-### Apple Website [2024]
-![Project Image](https://i.ibb.co/1R0V2pF/apple-website-preview.png)
-
-#### Description
- Clone of the modern Apple website with iPhone 15 presentation 
- 
-#### Tech Stack 
-- Frontend: TypeScript, Tailwind CSS, GSAP, Three.js
-
-#### Links: [Live Demo](https://vsbron-react2024-apple-website.netlify.app/) | [Repo](https://github.com/vsbron/react2024-apple-website)
 
 ## Connect with Me
 <p align="left">
-  <a href="https://discord.com/users/vsbron"><img src="https://i.ibb.co/880xJx1/discord.png" height="30" width="30" /></a>
   <a href="https://instagram.com/vsbron"><img src="https://i.ibb.co/BzLPXmL/instagram.png" height="30" width="30" /></a>
   <a href="https://www.linkedin.com/in/vsbron/"><img src="https://i.ibb.co/94wr4Lc/linkedin.png" height="30" width="30" /></a>
   <a href="https://www.reddit.com/user/VSBroN/"><img src="https://i.ibb.co/wS5xmPv/reddit.png" height="30" width="30" /></a>
