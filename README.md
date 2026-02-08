@@ -1,79 +1,54 @@
-## Hi there, I'm VSBroN 👋
+## Hey, I’m VSBroN 👋
 
-I'm a **web developer** with over a decade of experience in crafting responsive, dynamic web applications. My recent transition to **React** has invigorated my passion for modern web development, where I now leverage its powerful ecosystem to build performant, scalable apps.
+React / Next.js developer building fast, modern web apps with clean UI and scalable architecture.  
+10+ years in web development — currently focused on the React ecosystem and shipping portfolio-grade projects.
 
-![Commits](https://github-profile-trophy.vercel.app/?username=vsbron&title=Commit&theme=tokyonight)
+---
 
-### Current Focus
-- 🌱 I’m currently mastering advanced React & NEXT.js patterns and performance optimization
-- 🧑‍💻 I’m currently developing small Quiz project
+### 🧠 Current focus
+- Next.js (App Router), TypeScript, modern React patterns
+- Performance optimization, state architecture, and UI structure
+- Building and improving real-world portfolio apps
 
-### My Tech Stack
-- **Languages**: HTML, CSS, JavaScript, TypeScript
-- **Frontend**: React, Next.js
-- **State Management**: Redux (RTK), React Query, Zustand
-- **Forms & Validation**: React Hook Form, Zod
-- **Styling**: Styled Components, Tailwind CSS, CSS Modules, SASS, GSAP, BEM, Bootstrap, ShadCN UI
-- **Database / Backend**: Prisma, Firebase, Supabase
-- **Version Control**: Git
-- **Tools & Workflow**: ESLint, Prettier, Vite, Webpack, Docker, Vercel, Netlify
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsbron&layout=compact&theme=gotham)
+### 🛠 Tech I work with
 
-## Projects 
+**Core**
+- React, Next.js, TypeScript
+- Tailwind CSS, CSS Modules, Styled Components
+- React Query, Zustand, Redux Toolkit
+- React Hook Form, Zod
 
-### NextBlogs [2025]
-![Project Image](https://i.ibb.co/FLvTwVBy/next-blogs-preview.png)
-#### Description
-Multi-user blogging platform
+**Backend / DB**
+- Supabase, Firebase, Prisma
 
-#### Tech Stack
-- Frontend: Next.js, TypeScript, App Router, React Query, React Hook Form, Zod, Tailwind
-- Backend: Clerk, Supabase, Prisma
+**Workflow**
+- Git, Docker, Vercel, Netlify
+- ESLint, Prettier, Vite, Webpack
 
-#### Links: [Live Demo (VPN may needed)](https://next-blogs-2025.vercel.app) | [Repo](https://github.com/vsbron/next-blogs-2025-nextjs)
----------------------------------------
-### BroNflix [2025]
-![Project Image](https://i.ibb.co/XxHSYvBr/bronflix-preview.png)
-#### Description
-A Netflix-inspired movie browsing React app powered by TMDB API.
+---
 
-#### Tech Stack
-- Frontend: React, TypeScript, React Router, React Query, React Hook Form, Zod, Tailwind
-- Backend: Firebase, Firestore
+## 🚀 Featured Projects
 
-#### Links: [Live Demo (VPN may needed)](https://vsbronflix.netlify.app) | [Repo](https://github.com/vsbron/bronflix-2024-react)
----------------------------------------
-### VSplanet [2024]
-![Project Image](https://i.ibb.co/rbGX49g/vsplanet-preview.png)
-#### Description
-Remastering my first major project with modern technology, now powered by React and connected to a remote database.
+| Preview | Project |
+|--------|---------|
+| [![NextBlogs](YOUR_IMAGE_URL_HERE)](https://next-blogs-2025.vercel.app) | **NextBlogs (2025)**  <br/> Multi-user blogging platform with authentication, roles, and modern Next.js architecture. <br/><br/> **Stack:** Next.js (App Router), TypeScript, Tailwind, React Query, React Hook Form, Zod, Clerk, Supabase, Prisma <br/><br/> 🔗 **Live:** https://next-blogs-2025.vercel.app <br/> 📦 **Repo:** https://github.com/vsbron/next-blogs-2025-nextjs |
+| [![BroNflix](YOUR_IMAGE_URL_HERE)](https://vsbronflix.netlify.app) | **BroNflix (2025)** <br/> Netflix-inspired movie browsing app powered by the TMDB API. <br/><br/> **Stack:** React, TypeScript, React Router, React Query, Tailwind, Firebase / Firestore <br/><br/> 🔗 **Live:** https://vsbronflix.netlify.app <br/> 📦 **Repo:** https://github.com/vsbron/bronflix-2024-react |
+| [![VSplanet](YOUR_IMAGE_URL_HERE)](https://vsplanet.netlify.app) | **VSplanet (2024)** <br/> Remaster of my first major project — rebuilt with modern React and remote database. <br/><br/> **Stack:** React, TypeScript, React Router, React Query, Styled Components, Supabase <br/><br/> 🔗 **Live:** https://vsplanet.netlify.app <br/> 📦 **Repo:** https://github.com/vsbron/vsplanet |
+| [![QuikQuiz](YOUR_IMAGE_URL_HERE)](https://vsbron-quikquiz-2026.vercel.app/) | **QuikQuiz (2026)** <br/> API-driven quiz app with category/difficulty flow, protected navigation, and server-calculated results. <br/><br/> **Stack:** Next.js (App Router), TypeScript, Tailwind, Chart.js, Route Handlers <br/><br/> 🔗 **Live:** https://vsbron-quikquiz-2026.vercel.app/ <br/> 📦 **Repo:** https://github.com/vsbron/quikquiz-2026-nextjs |
+| [![Workout Timer](YOUR_IMAGE_URL_HERE)](https://vsbron-react2025-workout-timer.netlify.app/) | **Workout Timer (2025)** <br/> Customizable interval workout timer with sound & theme switching - perfect for interval training. <br/><br/> **Stack:** React, TypeScript, Context API, React Hook Form, Zod <br/><br/> 🔗 **Live:** https://vsbron-react2025-workout-timer.netlify.app/ <br/> 📦 **Repo:** https://github.com/vsbron/workout-timer-2025-react |
+| [![Modern Chat App](YOUR_IMAGE_URL_HERE)](https://vsbron-react2024-modern-chat-app.netlify.app/) | **Modern Chat App (2024)** <br/> Private real-time chat app with messaging and file sharing. <br/><br/> **Stack:** React, TypeScript, Zustand, Firebase / Firestore <br/><br/> 🔗 **Live:** https://vsbron-react2024-modern-chat-app.netlify.app/ <br/> 📦 **Repo:** https://github.com/vsbron/react2024-modern-chat-app |
 
-#### Tech Stack
-- Frontend: React, TypeScript, React Router, React Query, React Hook Form, Styled Components
-- Backend: Supabase
+---
 
-#### Links: [Live Demo](https://vsplanet.netlify.app) | [Repo (On demand)](https://github.com/vsbron/vsplanet)
----------------------------------------
-### Modern Chat App [2024]
-![Project Image](https://i.ibb.co/25pFG6j/modern-chat-app-preview.png)
-
-#### Description
-A modern browser-based chat client that enables private messaging and file exchanges between users.
-
-#### Tech Stack 
-- Frontend: React, TypeScript, Zustand
-- Backend: Firebase, Firestore
-
-#### Links: [Live Demo](https://vsbron-react2024-modern-chat-app.netlify.app/) | [Repo](https://github.com/vsbron/react2024-modern-chat-app)
-
-
-## Connect with Me
+### 📫 Connect with me
+📩 Email: **boris@net2simple.com**
 <p align="left">
-  <a href="https://instagram.com/vsbron"><img src="https://i.ibb.co/BzLPXmL/instagram.png" height="30" width="30" /></a>
   <a href="https://www.linkedin.com/in/vsbron/"><img src="https://i.ibb.co/94wr4Lc/linkedin.png" height="30" width="30" /></a>
+  <a href="https://instagram.com/vsbron"><img src="https://i.ibb.co/BzLPXmL/instagram.png" height="30" width="30" /></a>
   <a href="https://www.reddit.com/user/VSBroN/"><img src="https://i.ibb.co/wS5xmPv/reddit.png" height="30" width="30" /></a>
   <a href="https://t.me/vsbron"><img src="https://i.ibb.co/4S4g8D5/telegram.png" height="30" width="30" /></a>
 </p>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=vsbron&color=blue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsbron&layout=compact&theme=gotham)
