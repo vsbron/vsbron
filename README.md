@@ -39,7 +39,7 @@ React / Next.js developer building fast, modern web apps with clean UI and scala
 ---
 
 ### 📫 Connect with me
-📩 Email: **vsbron.webdev@gmail.comm**
+📩 Email: **vsbron.webdev@gmail.com**
 <p align="left">
   <a href="https://www.linkedin.com/in/vsbron/"><img src="https://i.ibb.co/94wr4Lc/linkedin.png" height="30" width="30" /></a>
   <a href="https://instagram.com/vsbron"><img src="https://i.ibb.co/BzLPXmL/instagram.png" height="30" width="30" /></a>
