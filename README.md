@@ -23,10 +23,6 @@ React / Next.js developer building fast, modern web apps with clean UI and scala
 **Backend / DB**
 - Supabase, Firebase, Prisma
 
-**Workflow**
-- Git, Docker, Vercel, Netlify
-- ESLint, Prettier, Vite, Webpack
-
 ---
 
 ## 🚀 Featured Projects
