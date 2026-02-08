@@ -43,12 +43,10 @@ React / Next.js developer building fast, modern web apps with clean UI and scala
 ---
 
 ### 📫 Connect with me
-📩 Email: **boris@net2simple.com**
+📩 Email: **vsbron.webdev@gmail.comm**
 <p align="left">
   <a href="https://www.linkedin.com/in/vsbron/"><img src="https://i.ibb.co/94wr4Lc/linkedin.png" height="30" width="30" /></a>
   <a href="https://instagram.com/vsbron"><img src="https://i.ibb.co/BzLPXmL/instagram.png" height="30" width="30" /></a>
   <a href="https://www.reddit.com/user/VSBroN/"><img src="https://i.ibb.co/wS5xmPv/reddit.png" height="30" width="30" /></a>
   <a href="https://t.me/vsbron"><img src="https://i.ibb.co/4S4g8D5/telegram.png" height="30" width="30" /></a>
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsbron&layout=compact&theme=gotham)
