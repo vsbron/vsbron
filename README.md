@@ -79,7 +79,7 @@ API-driven quiz app with category/difficulty flow, protected navigation, and ser
 ---
 ### Workout Timer (2025)
 
-[![Workout Timer](YOUR_IMAGE_URL_HERE)](https://vsbron-react2025-workout-timer.netlify.app/)
+[![Workout Timer](https://i.ibb.co/zwJyGCj/workout-timer.png)](https://vsbron-react2025-workout-timer.netlify.app/)
 
 Customizable interval workout timer with sound & theme switching - perfect for interval training.
 
