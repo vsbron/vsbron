@@ -29,7 +29,7 @@ React / Next.js developer building fast, modern web apps with clean UI and scala
 
 ### NextBlogs (2025)
 
-[![NextBlogs](https://i.ibb.co/mF6R1Kr0/nextblogs.png)](https://next-blogs-2025.vercel.app)
+[![NextBlogs](https://i.ibb.co/qLJjVn8z/nextblogs.png)](https://next-blogs-2025.vercel.app)
 
 Multi-user blogging platform with authentication, roles, and modern Next.js architecture.
 
@@ -41,7 +41,7 @@ Multi-user blogging platform with authentication, roles, and modern Next.js arch
 ---
 ### BroNflix (2025)
 
-[![BroNflix](https://i.ibb.co/NgW2KD04/bronflix.png)](https://vsbronflix.netlify.app)
+[![BroNflix](https://i.ibb.co/gFR2PSFR/bronflix.png)](https://vsbronflix.netlify.app)
 
 Netflix-inspired movie browsing app powered by the TMDB API.
 
@@ -54,7 +54,7 @@ Netflix-inspired movie browsing app powered by the TMDB API.
 
 ### VSplanet (2024)
 
-[![VSplanet](https://i.ibb.co/tw5FxWK4/vsplanet.png)](https://vsplanet.netlify.app)
+[![VSplanet](https://i.ibb.co/j9m1Y14Q/vsplanet.png)](https://vsplanet.netlify.app)
 
 Remaster of my first major project - rebuilt with modern React and remote database.
 
@@ -91,7 +91,7 @@ Customizable interval workout timer with sound & theme switching - perfect for i
 ---
 ### Modern Chat App (2024)
 
-[![Modern Chat App](YOUR_IMAGE_URL_HERE)](https://vsbron-react2024-modern-chat-app.netlify.app/)
+[![Modern Chat App](https://i.ibb.co/HfKng763/mca.png)](https://vsbron-react2024-modern-chat-app.netlify.app/)
 
 Private real-time chat app with messaging and file sharing.
 
