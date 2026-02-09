@@ -91,7 +91,7 @@ Customizable interval workout timer with sound & theme switching - perfect for i
 ---
 ### Modern Chat App (2024)
 
-[![Modern Chat App](https://i.ibb.co/HfKng763/mca.png)](https://vsbron-react2024-modern-chat-app.netlify.app/)
+[![Modern Chat App](https://i.ibb.co/cSzxS0YL/mca.png)](https://vsbron-react2024-modern-chat-app.netlify.app/)
 
 Private real-time chat app with messaging and file sharing.
 
