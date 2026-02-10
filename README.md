@@ -67,7 +67,7 @@ Remaster of my first major project - rebuilt with modern React and remote databa
 
 ### QuikQuiz (2026)
 
-[![QuikQuiz](YOUR_IMAGE_URL_HERE)](https://vsbron-quikquiz-2026.vercel.app/)
+[![QuikQuiz](https://i.ibb.co/wNXSx5bc/quikquiz.png)](https://vsbron-quikquiz-2026.vercel.app/)
 
 API-driven quiz app with category/difficulty flow, protected navigation, and server-calculated results.
 
