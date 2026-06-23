@@ -27,19 +27,19 @@ React / Next.js developer building fast, modern web apps with clean UI and scala
 
 ## 🚀 Featured Projects
 
-### NextBlogs (2025)
+### NextBlogs
 
-[![NextBlogs](https://i.ibb.co/qLJjVn8z/nextblogs.png)](https://next-blogs-2025.vercel.app)
+[![NextBlogs](https://i.ibb.co/qLJjVn8z/nextblogs.png)](https://next--blogs.vercel.app)
 
 Multi-user blogging platform with authentication, roles, and modern Next.js architecture.
 
 **Stack:** Next.js (App Router), TypeScript, Tailwind, React Query, React Hook Form, Zod, Clerk, Supabase, Prisma  
 
-🔗 **Live:** https://next-blogs-2025.vercel.app  
-📦 **Repo:** https://github.com/vsbron/next-blogs-2025-nextjs
+🔗 **Live:** https://next--blogs.vercel.app  
+📦 **Repo:** https://github.com/vsbron/next-blogs__nextjs
 
 ---
-### BroNflix (2025)
+### BroNflix
 
 [![BroNflix](https://i.ibb.co/gFR2PSFR/bronflix.png)](https://vsbronflix.netlify.app)
 
@@ -48,11 +48,11 @@ Netflix-inspired movie browsing app powered by the TMDB API.
 **Stack:** React, TypeScript, React Router, React Query, Tailwind, Firebase / Firestore  
 
 🔗 **Live:** https://vsbronflix.netlify.app  
-📦 **Repo:** https://github.com/vsbron/bronflix-2024-react
+📦 **Repo:** https://github.com/vsbron/bronflix__react
 
 ---
 
-### VSplanet (2024)
+### VSplanet
 
 [![VSplanet](https://i.ibb.co/j9m1Y14Q/vsplanet.png)](https://vsplanet.netlify.app)
 
@@ -65,7 +65,7 @@ Remaster of my first major project - rebuilt with modern React and remote databa
 
 ---
 
-### QuikQuiz (2026)
+### QuikQuiz
 
 [![QuikQuiz](https://i.ibb.co/wNXSx5bc/quikquiz.png)](https://vsbron-quikquiz-2026.vercel.app/)
 
@@ -77,7 +77,7 @@ API-driven quiz app with category/difficulty flow, protected navigation, and ser
 📦 **Repo:** https://github.com/vsbron/quikquiz-2026-nextjs
 
 ---
-### Workout Timer (2025)
+### Workout Timer
 
 [![Workout Timer](https://i.ibb.co/zwJyGCj/workout-timer.png)](https://vsbron-react2025-workout-timer.netlify.app/)
 
@@ -89,7 +89,7 @@ Customizable interval workout timer with sound & theme switching - perfect for i
 📦 **Repo:** https://github.com/vsbron/workout-timer-2025-react
 
 ---
-### Modern Chat App (2024)
+### Modern Chat App
 
 [![Modern Chat App](https://i.ibb.co/cSzxS0YL/mca.png)](https://vsbron-react2024-modern-chat-app.netlify.app/)
 
