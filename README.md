@@ -73,8 +73,8 @@ API-driven quiz app with category/difficulty flow, protected navigation, and ser
 
 **Stack:** Next.js (App Router), TypeScript, Tailwind, Chart.js, Route Handlers  
 
-🔗 **Live:** https://vsbron-quikquiz-2026.vercel.app/  
-📦 **Repo:** https://github.com/vsbron/quikquiz-2026-nextjs
+🔗 **Live:** https://quikquiz.vercel.app/  
+📦 **Repo:** https://github.com/vsbron/quikquiz__nextjs
 
 ---
 ### Workout Timer
@@ -97,8 +97,8 @@ Private real-time chat app with messaging and file sharing.
 
 **Stack:** React, TypeScript, Zustand, Firebase / Firestore  
 
-🔗 **Live:** https://vsbron-react2024-modern-chat-app.netlify.app/  
-📦 **Repo:** https://github.com/vsbron/react2024-modern-chat-app
+🔗 **Live:** https://vsbron-modern-chat-app.netlify.app/  
+📦 **Repo:** https://github.com/vsbron/modern-chat-app__react
 
 ---
 
