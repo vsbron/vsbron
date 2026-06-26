@@ -29,7 +29,7 @@ React / Next.js developer building fast, modern web apps with clean UI and scala
 
 ### NextBlogs
 
-[![NextBlogs](https://i.ibb.co/qLJjVn8z/nextblogs.png)](https://next--blogs.vercel.app)
+[![NextBlogs](https://i.ibb.co/qYbNz9Vp/nextblogs.png)](https://next--blogs.vercel.app)
 
 Multi-user blogging platform with authentication, roles, and modern Next.js architecture.
 
@@ -41,7 +41,7 @@ Multi-user blogging platform with authentication, roles, and modern Next.js arch
 ---
 ### BroNflix
 
-[![BroNflix](https://i.ibb.co/gFR2PSFR/bronflix.png)](https://vsbronflix.netlify.app)
+[![BroNflix](https://i.ibb.co/TBFH99wg/bronflix.png)](https://vsbronflix.netlify.app)
 
 Netflix-inspired movie browsing app powered by the TMDB API.
 
@@ -54,7 +54,7 @@ Netflix-inspired movie browsing app powered by the TMDB API.
 
 ### VSplanet
 
-[![VSplanet](https://i.ibb.co/j9m1Y14Q/vsplanet.png)](https://vsplanet.netlify.app)
+[![VSplanet](https://i.ibb.co/7M3xbD0/vsplanet.png)](https://vsplanet.netlify.app)
 
 Remaster of my first major project - rebuilt with modern React and remote database.
 
@@ -67,7 +67,7 @@ Remaster of my first major project - rebuilt with modern React and remote databa
 
 ### QuikQuiz
 
-[![QuikQuiz](https://i.ibb.co/wNXSx5bc/quikquiz.png)](https://quikquiz.vercel.app/)
+[![QuikQuiz](https://i.ibb.co/LX8xBJ1k/quikquiz.png)](https://quikquiz.vercel.app/)
 
 API-driven quiz app with category/difficulty flow, protected navigation, and server-calculated results.
 
@@ -79,7 +79,7 @@ API-driven quiz app with category/difficulty flow, protected navigation, and ser
 ---
 ### Workout Timer
 
-[![Workout Timer](https://i.ibb.co/zwJyGCj/workout-timer.png)](https://vsbron-workout-timer.netlify.app/)
+[![Workout Timer](https://i.ibb.co/S4h7b9R7/workout-timer.png)](https://vsbron-workout-timer.netlify.app/)
 
 Customizable interval workout timer with sound & theme switching - perfect for interval training.
 
@@ -91,7 +91,7 @@ Customizable interval workout timer with sound & theme switching - perfect for i
 ---
 ### Modern Chat App
 
-[![Modern Chat App](https://i.ibb.co/cSzxS0YL/mca.png)](https://vsbron-modern-chat-app.netlify.app/)
+[![Modern Chat App](https://i.ibb.co/B507jMrV/mca.png)](https://vsbron-modern-chat-app.netlify.app/)
 
 Private real-time chat app with messaging and file sharing.
 
