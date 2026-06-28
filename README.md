@@ -29,7 +29,7 @@ React / Next.js developer building fast, modern web apps with clean UI and scala
 
 ### NextBlogs
 
-[![NextBlogs](https://i.ibb.co/qYbNz9Vp/nextblogs.png)](https://next--blogs.vercel.app)
+[![NextBlogs](https://i.ibb.co/CK8xqBTn/nextblogs.png)](https://next--blogs.vercel.app)
 
 Multi-user blogging platform with authentication, roles, and modern Next.js architecture.
 
